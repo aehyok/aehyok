@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=aehyok)](https://github.com/aehyok/github-readme-stats)
+[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=aehyok&show_icons=true&theme=radical)](https://github.com/aehyok/github-readme-stats)
 
 
 作者：aehyok
