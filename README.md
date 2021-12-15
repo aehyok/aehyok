@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 - 💬 微信 : aehyok
 - 📧 Email : 455043818@qq.com
 - 📁 博客园社区 : [那个曾经的少年又回来了](https://cnblogs.com/aehyok)
-- 📁 掘金社区 : [那个曾经的少年又回来了](https://juejin.cn/user/2242659452477016/posts)
 
 
 ## 今年汇总 ✨
