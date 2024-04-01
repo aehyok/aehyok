@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 - 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning and sharing on my [http://vue.tuokecat.com/](http://vue.tuokecat.com/) welcome~ 
-- 🌱 I’m currently learning and sharing on my [http://vue.tuokecat.com/blog](http://vue.tuokecat.com/blog) welcome~ 
+- 🌱 I’m currently learning and sharing on my [https://aehyok.github.io/blog/](https://aehyok.github.io/blog/) welcome~ 
 - 💬 微信 : aehyok
 - 📧 Email : 455043818@qq.com
-- 📁 个人公众号 : [那个曾经的少年回来了](https://juejin.cn/user/2242659452477016)
+- 📁 我的公众号: 
+  <img height="100" style="margin-left:110px;" src="aehyok.jpeg">
 
 
 **今年汇总** ✨
