@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and sharing on my [http://vue.tuokecat.com/blog](http://vue.tuokecat.com/blog) welcome~ 
 - 💬 微信 : aehyok
 - 📧 Email : 455043818@qq.com
-- 📁 掘金社区 : [那个曾经的少年又回来了](https://juejin.cn/user/2242659452477016)
+- 📁 个人公众号 : [那个曾经的少年回来了](https://juejin.cn/user/2242659452477016)
 
 
 **今年汇总** ✨
