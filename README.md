@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 - 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning and sharing on my [https://aehyok.github.io/blog/](https://aehyok.github.io/blog/) welcome~ 
+- 🌱 I’m currently learning and sharing on my [https://x.com/aehyok](https://x.com/aehyok) welcome~ 
 - 💬 微信 : aehyok
 - 📧 Email : 455043818@qq.com
 - 📁 我的公众号: 
